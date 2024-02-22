@@ -10,4 +10,4 @@
 
 <center><img src="https://gitlab.com/accredian/insaid-data/-/raw/main/Logo-Accredian/Case-Study-Cropped.png" width= 30% /></center>
 
-<center><img src="[https://gitlab.com/accredian/insaid-data/-/raw/main/Logo-Accredian/Case-Study-Cropped.png](https://static.scientificamerican.com/sciam/cache/file/32665E6F-8D90-4567-9769D59E11DB7F26_source.jpg?w=1200)https://static.scientificamerican.com/sciam/cache/file/32665E6F-8D90-4567-9769D59E11DB7F26_source.jpg?w=1200" width= 30% /></center>
+<center><img src="[https://gitlab.com/accredian/insaid-data/-/raw/main/Logo-Accredian/Case-Study-Cropped.png](https://www.pbs.org/wnet/nature/files/2014/09/ExtraordinaryCats-Main.jpg)https://www.pbs.org/wnet/nature/files/2014/09/ExtraordinaryCats-Main.jpg" width= 30% /></center>
